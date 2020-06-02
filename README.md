@@ -13,3 +13,6 @@ This is how it can remove relations between words:
 It also helps us if we want to represent it in a different way
 
 ![](spacy2.png)
+
+
+POS is parts of speech tagging
