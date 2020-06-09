@@ -16,3 +16,6 @@ It also helps us if we want to represent it in a different way
 
 
 POS is parts of speech tagging
+
+
+I have made seperate folders each containing the differnt applications.
